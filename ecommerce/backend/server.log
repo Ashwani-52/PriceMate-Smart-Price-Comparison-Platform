@@ -1,0 +1,1508 @@
+[dotenv@17.2.3] injecting env (10) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+Server running on port 3001
+MongoDB Connected: ac-rh8bdyt-shard-00-02.ieszg6k.mongodb.net
+Database Name: ecommerce
+Getting products with query: [Object: null prototype] {}
+Total products found: 20
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 20
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 20
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 20
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 20
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 20
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'Iphone 17', sort: '-createdAt' }
+Total products found: 21
+Products returned: 1
+Getting products with query: [Object: null prototype] { keyword: 'Iphone 17', sort: '-createdAt' }
+Total products found: 21
+Products returned: 1
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Baby', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  'gemPrice[gte]': '60000',
+  'gemPrice[lte]': '89969',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 21
+Products returned: 2
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 21
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Clothing', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {}
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Baby', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Automotive', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Baby', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Clothing', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] { category: 'Furniture', sort: '-createdAt' }
+Total products found: 2
+Products returned: 2
+Getting products with query: [Object: null prototype] { category: 'Grocery', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Home', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Jewellery', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Office', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {
+  category: 'Office Supplies',
+  sort: '-createdAt'
+}
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Jewellery', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Furniture', sort: '-createdAt' }
+Total products found: 2
+Products returned: 2
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] { category: 'Furniture', sort: '-createdAt' }
+Total products found: 2
+Products returned: 2
+Getting products with query: [Object: null prototype] { category: 'Grocery', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {}
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 22
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Grocery', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] {
+  category: 'IT Peripherals',
+  sort: '-createdAt'
+}
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {
+  category: 'IT Peripherals',
+  sort: '-createdAt'
+}
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Baby', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Automotive', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 23
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Automotive', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] {}
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Baby', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Clothing', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] { category: 'Furniture', sort: '-createdAt' }
+Total products found: 2
+Products returned: 2
+Getting products with query: [Object: null prototype] { category: 'Grocery', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {}
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 24
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Grocery', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {}
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 25
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Jewellery', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Sports', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] { category: 'Office', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {
+  category: 'Office Supplies',
+  sort: '-createdAt'
+}
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Toys', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {
+  category: 'IT Peripherals',
+  sort: '-createdAt'
+}
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Grocery', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] { category: 'Furniture', sort: '-createdAt' }
+Total products found: 2
+Products returned: 2
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] { category: 'Furniture', sort: '-createdAt' }
+Total products found: 2
+Products returned: 2
+Getting products with query: [Object: null prototype] { category: 'Grocery', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Home', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {
+  category: 'IT Peripherals',
+  sort: '-createdAt'
+}
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'IT Peripherals',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {
+  category: 'IT Peripherals',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Baby', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Jewellery', sort: '-createdAt' }
+Total products found: 3
+Products returned: 3
+Getting products with query: [Object: null prototype] { category: 'Home', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Jewellery', sort: '-createdAt' }
+Total products found: 3
+Products returned: 3
+Getting products with query: [Object: null prototype] { category: 'Office', sort: '-createdAt' }
+Total products found: 4
+Products returned: 4
+Getting products with query: [Object: null prototype] {
+  category: 'Office Supplies',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Sports', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Toys', sort: '-createdAt' }
+Total products found: 4
+Products returned: 4
+Getting products with query: [Object: null prototype] {
+  category: 'IT Peripherals',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'Iphone 17', sort: '-createdAt' }
+Total products found: 55
+Products returned: 1
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'bolde care', sort: '-createdAt' }
+Total products found: 55
+Products returned: 0
+Getting products with query: [Object: null prototype] { keyword: 'vibe', sort: '-createdAt' }
+Total products found: 55
+Products returned: 1
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 55
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 56
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 56
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 56
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Clothing', sort: '-createdAt' }
+Total products found: 6
+Products returned: 6
+Getting products with query: [Object: null prototype] { category: 'Clothing', sort: '-createdAt' }
+Total products found: 6
+Products returned: 6
+Getting products with query: [Object: null prototype] { category: 'Clothing', sort: '-createdAt' }
+Total products found: 6
+Products returned: 6
+Getting products with query: [Object: null prototype] {}
+Total products found: 56
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 56
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 56
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 56
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  'gemPrice[gte]': '40000',
+  'gemPrice[lte]': '100000',
+  sort: '-createdAt'
+}
+Total products found: 6
+Products returned: 6
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  'gemPrice[gte]': '200',
+  'gemPrice[lte]': '500',
+  sort: '-createdAt'
+}
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  'gemPrice[gte]': '100',
+  'gemPrice[lte]': '500',
+  sort: '-createdAt'
+}
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  'gemPrice[gte]': '100',
+  'gemPrice[lte]': '1000',
+  sort: '-createdAt'
+}
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  'gemPrice[gte]': '500',
+  'gemPrice[lte]': '1000',
+  sort: '-createdAt'
+}
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  'gemPrice[gte]': '10000',
+  'gemPrice[lte]': '50000',
+  sort: '-createdAt'
+}
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  'gemPrice[gte]': '100',
+  'gemPrice[lte]': '500',
+  sort: '-createdAt'
+}
+Total products found: 9
+Products returned: 9
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Automotive', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] { category: 'Automotive', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] { category: 'Automotive', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] { category: 'Baby', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Clothing', sort: '-createdAt' }
+Total products found: 6
+Products returned: 6
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 57
+Products returned: 3
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 57
+Products returned: 3
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: 'gemPrice' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-gemPrice' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Office Supplies',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {
+  category: 'Office Supplies',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Furniture', sort: '-createdAt' }
+Total products found: 2
+Products returned: 2
+Getting products with query: [Object: null prototype] { category: 'Furniture', sort: '-createdAt' }
+Total products found: 2
+Products returned: 2
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Furniture', sort: '-createdAt' }
+Total products found: 2
+Products returned: 2
+Getting products with query: [Object: null prototype] { category: 'Furniture', sort: '-createdAt' }
+Total products found: 2
+Products returned: 2
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Office', sort: '-createdAt' }
+Total products found: 4
+Products returned: 4
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'vibe', sort: '-createdAt' }
+Total products found: 57
+Products returned: 1
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 57
+Products returned: 3
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 57
+Products returned: 3
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Automotive', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] { category: 'Baby', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Clothing', sort: '-createdAt' }
+Total products found: 6
+Products returned: 6
+Getting products with query: [Object: null prototype] { category: 'Clothing', sort: '-createdAt' }
+Total products found: 6
+Products returned: 6
+Getting products with query: [Object: null prototype] { category: 'Clothing', sort: '-createdAt' }
+Total products found: 6
+Products returned: 6
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] { category: 'Furniture', sort: '-createdAt' }
+Total products found: 2
+Products returned: 2
+Getting products with query: [Object: null prototype] { category: 'Grocery', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Automotive', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 57
+Products returned: 3
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 57
+Products returned: 3
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {
+  category: 'Appliances',
+  'gemPrice[gte]': '1000',
+  'gemPrice[lte]': '10000',
+  sort: '-createdAt'
+}
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  'gemPrice[gte]': '40000',
+  'gemPrice[lte]': '70000',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Jewellery', sort: '-createdAt' }
+Total products found: 3
+Products returned: 3
+Getting products with query: [Object: null prototype] { category: 'Office', sort: '-createdAt' }
+Getting products with query: [Object: null prototype] {
+  category: 'Office Supplies',
+  sort: '-createdAt'
+}
+Getting products with query: [Object: null prototype] { category: 'Sports', sort: '-createdAt' }
+Getting products with query: [Object: null prototype] {
+  category: 'IT Peripherals',
+  sort: '-createdAt'
+}
+Getting products with query: [Object: null prototype] { category: 'Toys', sort: '-createdAt' }
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 4
+Total products found: 5
+Total products found: 4
+Total products found: 5
+Products returned: 4
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Products returned: 5
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Products returned: 4
+Getting products with query: [Object: null prototype] { category: 'Office', sort: '-createdAt' }
+Products returned: 5
+Total products found: 5
+Total products found: 5
+Products returned: 5
+Total products found: 4
+Products returned: 5
+Products returned: 4
+Total products found: 10
+Total products found: 57
+Products returned: 10
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 57
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  'gemPrice[gte]': '40000',
+  'gemPrice[lte]': '70000',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20

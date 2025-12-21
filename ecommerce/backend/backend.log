@@ -1,0 +1,4 @@
+[dotenv@17.2.3] injecting env (10) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+Server running on port 3001
+MongoDB Connected: ac-rh8bdyt-shard-00-00.ieszg6k.mongodb.net
+Database Name: ecommerce
