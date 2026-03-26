@@ -24,7 +24,8 @@ const MyOrders = () => {
             const config = {
                 headers: { Authorization: `Bearer ${token}` }
             };
-            const { data } = await axios.get('http://localhost:3001/api/v1/orders/myorders', config);
+            const API_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/orders/myorders` : 'http://localhost:3001/api/v1/orders/myorders';
+            const { data } = await axios.get(API_URL, config);
             setOrders(data.data);
         } catch (error) {
             console.error('Error fetching orders:', error);

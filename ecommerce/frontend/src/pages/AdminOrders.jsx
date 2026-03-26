@@ -30,7 +30,8 @@ const AdminOrders = () => {
             const config = {
                 headers: { Authorization: `Bearer ${token}` }
             };
-            const { data } = await axios.get('http://localhost:3001/api/v1/orders', config);
+            const API_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/orders` : 'http://localhost:3001/api/v1/orders';
+            const { data } = await axios.get(API_URL, config);
             setOrders(data.data);
             
             // Calculate stats
@@ -55,7 +56,8 @@ const AdminOrders = () => {
             const config = {
                 headers: { Authorization: `Bearer ${token}` }
             };
-            await axios.put(`http://localhost:3001/api/v1/orders/${orderId}/approve`, {}, config);
+            const API_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/orders` : 'http://localhost:3001/api/v1/orders';
+            await axios.put(`${API_URL}/${orderId}/approve`, {}, config);
             alert('✅ Order approved successfully!');
             fetchOrders();
         } catch (error) {
@@ -69,7 +71,8 @@ const AdminOrders = () => {
             const config = {
                 headers: { Authorization: `Bearer ${token}` }
             };
-            await axios.put(`http://localhost:3001/api/v1/orders/${orderId}/status`, { status }, config);
+            const API_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/orders` : 'http://localhost:3001/api/v1/orders';
+            await axios.put(`${API_URL}/${orderId}/status`, { status }, config);
             alert(`✅ Order status updated to ${status}`);
             fetchOrders();
         } catch (error) {
@@ -85,7 +88,8 @@ const AdminOrders = () => {
             const config = {
                 headers: { Authorization: `Bearer ${token}` }
             };
-            await axios.put(`http://localhost:3001/api/v1/orders/${orderId}/deliver`, {}, config);
+            const API_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/orders` : 'http://localhost:3001/api/v1/orders';
+            await axios.put(`${API_URL}/${orderId}/deliver`, {}, config);
             alert('✅ Order marked as delivered!');
             fetchOrders();
         } catch (error) {

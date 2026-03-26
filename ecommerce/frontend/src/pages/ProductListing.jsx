@@ -55,7 +55,8 @@ const ProductListing = () => {
                 if (sortBy === 'price_high') params.sort = '-gemPrice';
                 if (sortBy === 'newest') params.sort = '-createdAt';
 
-                const { data } = await axios.get('http://localhost:3001/api/v1/products', { params });
+                const API_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/products` : 'http://localhost:3001/api/v1/products';
+                const { data } = await axios.get(API_URL, { params });
                 setProducts(data.data);
             } catch (error) {
                 console.error(error);

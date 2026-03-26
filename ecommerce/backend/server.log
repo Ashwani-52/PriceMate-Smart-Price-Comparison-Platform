@@ -1506,3 +1506,952 @@ Products returned: 20
 Getting products with query: [Object: null prototype] {}
 Total products found: 58
 Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'macbook', sort: '-createdAt' }
+Total products found: 58
+Products returned: 1
+Getting products with query: [Object: null prototype] { keyword: 'macbook', sort: '-createdAt' }
+Total products found: 58
+Products returned: 1
+Getting products with query: [Object: null prototype] { keyword: 'macbook', sort: '-createdAt' }
+Total products found: 58
+Products returned: 1
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Automotive', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] { category: 'Home', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {
+  category: 'Office Supplies',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Office', sort: '-createdAt' }
+Total products found: 4
+Products returned: 4
+Getting products with query: [Object: null prototype] { category: 'Jewellery', sort: '-createdAt' }
+Total products found: 3
+Products returned: 3
+Getting products with query: [Object: null prototype] { category: 'Toys', sort: '-createdAt' }
+Total products found: 4
+Products returned: 4
+Getting products with query: [Object: null prototype] {
+  category: 'IT Peripherals',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Sports', sort: '-createdAt' }
+Total products found: 6
+Products returned: 6
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Clothing', sort: '-createdAt' }
+Total products found: 6
+Products returned: 6
+Getting products with query: [Object: null prototype] { category: 'Health ', sort: '-createdAt' }
+Total products found: 0
+Products returned: 0
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'vibe', sort: '-createdAt' }
+Total products found: 58
+Products returned: 1
+Getting products with query: [Object: null prototype] { keyword: 'vibe', sort: '-createdAt' }
+Total products found: 58
+Products returned: 1
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { category: 'Automotive', sort: '-createdAt' }
+Total products found: 1
+Products returned: 1
+Getting products with query: [Object: null prototype] { category: 'Appliances', sort: '-createdAt' }
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  'gemPrice[gte]': '40000',
+  'gemPrice[lte]': '69986',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 10
+Products returned: 10
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Create product error: ValidationError: Product validation failed: name: Product name cannot exceed 100 characters
+    at Document.invalidate (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/document.js:3377:32)
+    at validatePath (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/document.js:3152:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Promise.all (index 0)
+    at async model.$__validate (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/document.js:3093:3)
+    at async model.validate (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/document.js:2670:5)
+    at async model.validateBeforeSave (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/plugins/validateBeforeSave.js:34:7)
+    at async Kareem.execPre (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/kareem/index.js:65:24)
+    at async model.$__save (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/model.js:369:5)
+    at async model.save (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/model.js:609:5) {
+  errors: {
+    name: ValidatorError: Product name cannot exceed 100 characters
+        at SchemaString.doValidate (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/schemaType.js:1425:13)
+        at validatePath (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/document.js:3144:24)
+        at model.$__validate (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/document.js:3090:21)
+        at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+        at async model.validate (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/document.js:2670:5)
+        at async model.validateBeforeSave (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/plugins/validateBeforeSave.js:34:7)
+        at async Kareem.execPre (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/kareem/index.js:65:24)
+        at async model.$__save (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/model.js:369:5)
+        at async model.save (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/model.js:609:5)
+        at async /Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/model.js:2722:9 {
+      properties: [Object],
+      kind: 'maxlength',
+      path: 'name',
+      value: 'MuscleBlaze Biozyme Performanc...',
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    }
+  },
+  _message: 'Product validation failed'
+}
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 58
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'levi', sort: '-createdAt' }
+Total products found: 59
+Products returned: 1
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 59
+Products returned: 3
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 59
+Products returned: 3
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  'gemPrice[gte]': '500',
+  'gemPrice[lte]': '10000',
+  sort: '-createdAt'
+}
+Total products found: 30
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Getting products with query: [Object: null prototype] {}
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Total products found: 59
+Products returned: 3
+Products returned: 3
+Total products found: 59
+Total products found: 59
+Products returned: 20
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 59
+Products returned: 3
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 59
+Products returned: 3
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  'gemPrice[gte]': '40000',
+  'gemPrice[lte]': '70000',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 59
+Products returned: 3
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 59
+Products returned: 3
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Get products error: MongoServerSelectionError: getaddrinfo ENOTFOUND ac-rh8bdyt-shard-00-02.ieszg6k.mongodb.net
+    at Topology.selectServer (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/sdam/topology.js:346:38)
+    at async tryOperation (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/operations/execute_operation.js:150:18)
+    at async executeOperation (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/operations/execute_operation.js:80:16)
+    at async AggregationCursor._initialize (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cursor/aggregation_cursor.js:57:26)
+    at async AggregationCursor.cursorInit (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:620:27)
+    at async AggregationCursor.fetchBatch (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:654:13)
+    at async AggregationCursor.next (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:326:17)
+    at async Collection.countDocuments (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/collection.js:521:21)
+    at async model.Query.exec (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/query.js:4627:63)
+    at async exports.getProducts (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/src/controller/productController.js:99:23) {
+  errorLabelSet: Set(0) {},
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-rh8bdyt-shard-00-02.ieszg6k.mongodb.net:27017' => [ServerDescription],
+      'ac-rh8bdyt-shard-00-00.ieszg6k.mongodb.net:27017' => [ServerDescription],
+      'ac-rh8bdyt-shard-00-01.ieszg6k.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-w7l96l-shard-0',
+    maxElectionId: new ObjectId('7fffffff000000000000011c'),
+    maxSetVersion: 293,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  [cause]: MongoNetworkError: getaddrinfo ENOTFOUND ac-rh8bdyt-shard-00-02.ieszg6k.mongodb.net
+      at TLSSocket.<anonymous> (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cmap/connect.js:286:44)
+      at Object.onceWrapper (node:events:639:26)
+      at TLSSocket.emit (node:events:524:28)
+      at emitErrorNT (node:internal/streams/destroy:170:8)
+      at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+      at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+    errorLabelSet: Set(1) { 'ResetPool' },
+    beforeHandshake: false,
+    [cause]: Error: getaddrinfo ENOTFOUND ac-rh8bdyt-shard-00-02.ieszg6k.mongodb.net
+        at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26) {
+      errno: -3008,
+      code: 'ENOTFOUND',
+      syscall: 'getaddrinfo',
+      hostname: 'ac-rh8bdyt-shard-00-02.ieszg6k.mongodb.net'
+    }
+  }
+}
+Getting products with query: [Object: null prototype] {}
+Get products error: MongoServerSelectionError: getaddrinfo ENOTFOUND ac-rh8bdyt-shard-00-02.ieszg6k.mongodb.net
+    at Topology.selectServer (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/sdam/topology.js:346:38)
+    at async tryOperation (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/operations/execute_operation.js:150:18)
+    at async executeOperation (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/operations/execute_operation.js:80:16)
+    at async AggregationCursor._initialize (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cursor/aggregation_cursor.js:57:26)
+    at async AggregationCursor.cursorInit (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:620:27)
+    at async AggregationCursor.fetchBatch (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:654:13)
+    at async AggregationCursor.next (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cursor/abstract_cursor.js:326:17)
+    at async Collection.countDocuments (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/collection.js:521:21)
+    at async model.Query.exec (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongoose/lib/query.js:4627:63)
+    at async exports.getProducts (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/src/controller/productController.js:99:23) {
+  errorLabelSet: Set(0) {},
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-rh8bdyt-shard-00-02.ieszg6k.mongodb.net:27017' => [ServerDescription],
+      'ac-rh8bdyt-shard-00-00.ieszg6k.mongodb.net:27017' => [ServerDescription],
+      'ac-rh8bdyt-shard-00-01.ieszg6k.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-w7l96l-shard-0',
+    maxElectionId: new ObjectId('7fffffff000000000000011c'),
+    maxSetVersion: 293,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  [cause]: MongoNetworkError: getaddrinfo ENOTFOUND ac-rh8bdyt-shard-00-02.ieszg6k.mongodb.net
+      at TLSSocket.<anonymous> (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cmap/connect.js:286:44)
+      at Object.onceWrapper (node:events:639:26)
+      at TLSSocket.emit (node:events:524:28)
+      at emitErrorNT (node:internal/streams/destroy:170:8)
+      at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+      at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+    errorLabelSet: Set(1) { 'ResetPool' },
+    beforeHandshake: false,
+    [cause]: Error: getaddrinfo ENOTFOUND ac-rh8bdyt-shard-00-02.ieszg6k.mongodb.net
+        at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26) {
+      errno: -3008,
+      code: 'ENOTFOUND',
+      syscall: 'getaddrinfo',
+      hostname: 'ac-rh8bdyt-shard-00-02.ieszg6k.mongodb.net'
+    }
+  }
+}
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 59
+Products returned: 3
+Getting products with query: [Object: null prototype] { keyword: 'iphone', sort: '-createdAt' }
+Total products found: 59
+Products returned: 3
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { keyword: 'power', sort: '-createdAt' }
+Total products found: 59
+Products returned: 1
+Getting products with query: [Object: null prototype] { keyword: 'power', sort: '-createdAt' }
+Total products found: 59
+Products returned: 1
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] { sort: '-createdAt' }
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {
+  'gemPrice[gte]': '40000',
+  'gemPrice[lte]': '70000',
+  sort: '-createdAt'
+}
+Total products found: 5
+Products returned: 5
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Getting products with query: [Object: null prototype] {}
+Getting products with query: [Object: null prototype] {
+  category: 'Electronics',
+  sort: '-createdAt'
+}
+Total products found: 59
+Total products found: 11
+Get products error: MongoNetworkTimeoutError: Socket 'secureConnect' timed out after 30117ms (connectTimeoutMS: 30000)
+    at TLSSocket.<anonymous> (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cmap/connect.js:288:20)
+    at Object.onceWrapper (node:events:638:28)
+    at TLSSocket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:609:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorLabelSet: Set(0) {},
+  beforeHandshake: false,
+  connectionGeneration: 3493,
+  [cause]: undefined
+}
+Getting products with query: [Object: null prototype] {}
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Total products found: 11
+Products returned: 11
+Products returned: 11
+Get products error: MongoNetworkTimeoutError: connection 9 to 159.41.197.66:27017 timed out
+    at Timeout._onTimeout (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cmap/connection.js:140:26)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorLabelSet: Set(2) { 'HandshakeError', 'ResetPool' },
+  beforeHandshake: true,
+  connectionGeneration: 3494,
+  [cause]: undefined
+}
+Products returned: 20
+Getting products with query: [Object: null prototype] {}
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Total products found: 59
+Getting products with query: [Object: null prototype] {}
+Total products found: 59
+Products returned: 20
+Get products error: MongoNetworkTimeoutError: Socket 'secureConnect' timed out after 30067ms (connectTimeoutMS: 30000)
+    at TLSSocket.<anonymous> (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cmap/connect.js:288:20)
+    at Object.onceWrapper (node:events:638:28)
+    at TLSSocket.emit (node:events:524:28)
+    at Socket._onTimeout (node:net:609:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7) {
+  errorLabelSet: Set(0) {},
+  beforeHandshake: false,
+  connectionGeneration: 3496,
+  [cause]: undefined
+}
+Get products error: PoolClearedOnNetworkError: Connection to ac-rh8bdyt-shard-00-01.ieszg6k.mongodb.net:27017 interrupted due to server monitor timeout
+    at ConnectionPool.interruptInUseConnections (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cmap/connection_pool.js:308:36)
+    at /Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cmap/connection_pool.js:296:41
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+  errorLabelSet: Set(1) { 'PoolRequestedRetry' },
+  beforeHandshake: false,
+  address: 'ac-rh8bdyt-shard-00-01.ieszg6k.mongodb.net:27017',
+  [cause]: MongoNetworkTimeoutError: connection <monitor> to 159.41.197.66:27017 timed out
+      at Timeout._onTimeout (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cmap/connection.js:140:26)
+      at listOnTimeout (node:internal/timers:594:17)
+      at process.processTimers (node:internal/timers:529:7) {
+    errorLabelSet: Set(2) { 'ResetPool', 'InterruptInUseConnections' },
+    beforeHandshake: false,
+    [cause]: undefined
+  }
+}
+Get products error: PoolClearedOnNetworkError: Connection to ac-rh8bdyt-shard-00-01.ieszg6k.mongodb.net:27017 interrupted due to server monitor timeout
+    at ConnectionPool.interruptInUseConnections (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cmap/connection_pool.js:308:36)
+    at /Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cmap/connection_pool.js:296:41
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+  errorLabelSet: Set(1) { 'PoolRequestedRetry' },
+  beforeHandshake: false,
+  address: 'ac-rh8bdyt-shard-00-01.ieszg6k.mongodb.net:27017',
+  [cause]: MongoNetworkTimeoutError: connection <monitor> to 159.41.197.66:27017 timed out
+      at Timeout._onTimeout (/Users/ashwanikumar/Desktop/GEM Project/ecommerce/backend/node_modules/mongodb/lib/cmap/connection.js:140:26)
+      at listOnTimeout (node:internal/timers:594:17)
+      at process.processTimers (node:internal/timers:529:7) {
+    errorLabelSet: Set(2) { 'ResetPool', 'InterruptInUseConnections' },
+    beforeHandshake: false,
+    [cause]: undefined
+  }
+}

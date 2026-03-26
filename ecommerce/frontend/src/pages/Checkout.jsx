@@ -52,7 +52,8 @@ const Checkout = () => {
             const config = {
                 headers: { Authorization: `Bearer ${token}` }
             };
-            const { data } = await axios.get(`http://localhost:3001/api/v1/payment/upi-details?amount=${total}`, config);
+            const API_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/payment/upi-details` : 'http://localhost:3001/api/v1/payment/upi-details';
+            const { data } = await axios.get(`${API_URL}?amount=${total}`, config);
             setUpiDetails(data.data);
         } catch (error) {
             console.error('Error fetching UPI details:', error);
@@ -83,7 +84,8 @@ const Checkout = () => {
                 headers: { Authorization: `Bearer ${token}` }
             };
 
-            const { data } = await axios.post('http://localhost:3001/api/v1/payment/create-order', 
+            const CREATE_ORDER_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/payment/create-order` : 'http://localhost:3001/api/v1/payment/create-order';
+            const { data } = await axios.post(CREATE_ORDER_URL, 
                 { amount: total }, config);
 
             const options = {
@@ -95,7 +97,8 @@ const Checkout = () => {
                 order_id: data.order.id,
                 handler: async function (response) {
                     try {
-                        await axios.post('http://localhost:3001/api/v1/payment/verify', response, config);
+                        const VERIFY_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/payment/verify` : 'http://localhost:3001/api/v1/payment/verify';
+                        await axios.post(VERIFY_URL, response, config);
                         await createOrder(response.razorpay_payment_id, 'razorpay', 'completed');
                         
                         dispatch(clearCart());
@@ -145,7 +148,8 @@ const Checkout = () => {
                 headers: { Authorization: `Bearer ${token}` }
             };
 
-            await axios.post('http://localhost:3001/api/v1/payment/manual-payment', {
+            const MANUAL_PAYMENT_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/payment/manual-payment` : 'http://localhost:3001/api/v1/payment/manual-payment';
+            await axios.post(MANUAL_PAYMENT_URL, {
                 transaction_id: transactionId,
                 payment_method: 'upi',
                 amount: total
@@ -191,7 +195,8 @@ const Checkout = () => {
             paidAt: status === 'completed' ? new Date() : null
         };
 
-        await axios.post('http://localhost:3001/api/v1/orders', orderData, config);
+        const ORDERS_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/orders` : 'http://localhost:3001/api/v1/orders';
+        await axios.post(ORDERS_URL, orderData, config);
     };
 
     const handlePayment = () => {

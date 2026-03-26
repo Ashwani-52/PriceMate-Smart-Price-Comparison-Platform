@@ -40,7 +40,8 @@ const AdminProducts = () => {
 
     const fetchProducts = async () => {
         try {
-            const { data } = await axios.get('http://localhost:3001/api/v1/products');
+            const API_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/products` : 'http://localhost:3001/api/v1/products';
+            const { data } = await axios.get(API_URL);
             setProducts(data.data);
             setLoading(false);
         } catch (error) {
@@ -103,10 +104,11 @@ const AdminProducts = () => {
         const config = { headers: { Authorization: `Bearer ${token}` } };
 
         try {
+            const API_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/products` : 'http://localhost:3001/api/v1/products';
             if (currentProduct._id) {
-                await axios.put(`http://localhost:3001/api/v1/products/${currentProduct._id}`, currentProduct, config);
+                await axios.put(`${API_URL}/${currentProduct._id}`, currentProduct, config);
             } else {
-                await axios.post('http://localhost:3001/api/v1/products', currentProduct, config);
+                await axios.post(API_URL, currentProduct, config);
             }
             alert('Product saved successfully!');
             setIsEditing(false);
@@ -120,7 +122,8 @@ const AdminProducts = () => {
     const handleDelete = async (id) => {
         if (window.confirm('Are you sure you want to delete this product?')) {
             try {
-                await axios.delete(`http://localhost:3001/api/v1/products/${id}`, {
+                const API_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/products` : 'http://localhost:3001/api/v1/products';
+                await axios.delete(`${API_URL}/${id}`, {
                     headers: { Authorization: `Bearer ${token}` }
                 });
                 alert('Product deleted successfully!');

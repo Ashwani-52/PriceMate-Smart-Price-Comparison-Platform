@@ -21,7 +21,8 @@ const AdminDashboard = () => {
                 const config = {
                     headers: { Authorization: `Bearer ${token}` }
                 };
-                const { data } = await axios.get('http://localhost:3001/api/v1/admin/stats', config);
+                const API_URL = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api/v1/admin/stats` : 'http://localhost:3001/api/v1/admin/stats';
+                const { data } = await axios.get(API_URL, config);
                 setStats(data.data);
             } catch (error) {
                 console.error(error);

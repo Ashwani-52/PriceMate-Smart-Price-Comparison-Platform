@@ -14,8 +14,12 @@ app.use(cookieParser());
 // CORS configuration for network sharing
 const corsOptions = {
     origin: function (origin, callback) {
-        // Allow requests from any origin in development
-        callback(null, true);
+        const allowedOrigin = process.env.FRONTEND_URL;
+        if (!origin || (allowedOrigin && origin.startsWith(allowedOrigin)) || !allowedOrigin) {
+            callback(null, true);
+        } else {
+            callback(new Error('Not allowed by CORS'));
+        }
     },
     credentials: true,
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', 'PATCH'],
